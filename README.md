@@ -1,4 +1,4 @@
-# Análisis del Mercado Inmobiliario para Alquiler Turístico en Madrid
+# Análisis del Mercado Inmobiliario para Alquiler Turístico
 Este repositorio contiene un análisis detallado del mercado inmobiliario en Madrid, centrado en el alquiler turístico. Utiliza datos públicos de Airbnb para identificar oportunidades de inversión en distintas áreas y tipos de inmuebles.
 
 Características Principales:
